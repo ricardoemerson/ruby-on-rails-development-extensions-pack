@@ -4,6 +4,7 @@ This extension pack packages some useful extensions for Ruby on Rails developmen
 
 ### Extensions Included
 
+* [Better Haml](https://marketplace.visualstudio.com/items?itemName=karunamurti.haml) - Better Haml syntax highlighting, auto close and suggestions.
 * [endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise) - Wisely add "end" in Ruby.
 * [ERB-VSCode-Snippets](https://marketplace.visualstudio.com/items?itemName=ZneuRay.erb-vscode-snippets) - A collection of Visual Studio Code snippets useful for writing ERB.
 * [erb](https://marketplace.visualstudio.com/items?itemName=CraigMaslowski.erb) - Syntax Highlighting for Ruby ERB files.

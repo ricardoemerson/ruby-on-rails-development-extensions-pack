@@ -1,43 +1,44 @@
 {
-    "name": "ruby-on-rails-development-extensions-pack",
-    "displayName": "Ruby on Rails Development Extensions Pack",
-    "description": "A set of useful extensions for Ruby on Rails projects.",
-    "version": "0.0.1",
-    "publisher": "ricardo-emerson",
-    "icon": "extension-icon.png",
-    "repository": "https://github.com/ricardoemerson/ruby-on-rails-development-extensions-pack",
-    "engines": {
-        "vscode": "^1.26.0"
-    },
-    "keywords": [
-        "development",
-        "Ruby",
-        "Ruby on Rails",
-        "Rails"
-	],
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-        "CraigMaslowski.erb",
-        "elliotlarson.ruby-around-the-block",
-        "hjleochen.rails-nav",
-        "hoovercj.ruby-linter",
-        "Hridoy.rails-snippets",
-        "kaiwood.endwise",
-        "karunamurti.rspec-snippets",
-        "Kosai106.ruby-syntax-replacer",
-        "miguel-savignano.ruby-symbols",
-        "misogi.ruby-rubocop",
-        "rebornix.ruby",
-        "robert.ruby-snippet",
-        "sianglim.slim",
-        "siliconsenthil.rufo-vscode",
-        "tmikoss.rails-latest-migration",
-        "vortizhe.simple-ruby-erb",
-        "ZneuRay.erb-vscode-snippets"
-    ],
-    "__metadata": {
-		"publisherDisplayName": "Ricardo Emerson"
-	}
+  "name": "ruby-on-rails-development-extensions-pack",
+  "displayName": "Ruby on Rails Development Extensions Pack",
+  "description": "A set of useful extensions for Ruby on Rails projects.",
+  "version": "1.1.0",
+  "publisher": "ricardo-emerson",
+  "icon": "extension-icon.png",
+  "repository": "https://github.com/ricardoemerson/ruby-on-rails-development-extensions-pack",
+  "engines": {
+    "vscode": "^1.26.0"
+  },
+  "keywords": [
+    "development",
+    "Ruby",
+    "Ruby on Rails",
+    "Rails"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "CraigMaslowski.erb",
+    "elliotlarson.ruby-around-the-block",
+    "hjleochen.rails-nav",
+    "hoovercj.ruby-linter",
+    "Hridoy.rails-snippets",
+    "kaiwood.endwise",
+    "karunamurti.haml",
+    "karunamurti.rspec-snippets",
+    "Kosai106.ruby-syntax-replacer",
+    "miguel-savignano.ruby-symbols",
+    "misogi.ruby-rubocop",
+    "rebornix.ruby",
+    "robert.ruby-snippet",
+    "sianglim.slim",
+    "siliconsenthil.rufo-vscode",
+    "tmikoss.rails-latest-migration",
+    "vortizhe.simple-ruby-erb",
+    "ZneuRay.erb-vscode-snippets"
+  ],
+  "__metadata": {
+    "publisherDisplayName": "Ricardo Emerson"
+  }
 }
