@@ -1,6 +1,6 @@
-# VS Code Ruby on Rails Development Extensions Pack
+# Ruby on Rails Development Extensions Pack
 
-This extension pack packages some useful extensions for Ruby on Rails development in VS Code.
+This extension package contains useful extensions for working with Ruby on Rails in visual studio code.
 
 ### Extensions Included
 
