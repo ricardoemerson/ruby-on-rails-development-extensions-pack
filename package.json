@@ -2,7 +2,7 @@
   "name": "ruby-on-rails-development-extensions-pack",
   "displayName": "Ruby on Rails Development Extensions Pack",
   "description": "A set of useful extensions for Ruby on Rails projects.",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "publisher": "ricardo-emerson",
   "icon": "extension-icon.png",
   "repository": "https://github.com/ricardoemerson/ruby-on-rails-development-extensions-pack",
